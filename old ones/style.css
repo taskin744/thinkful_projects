@@ -71,19 +71,10 @@ html {
 
 .header {
   text-align: center;
-  font-family:Verdana, Geneva, Tahoma, sans-serif;
-  font-weight: 900;
-  font-size: 120%;
 }
 
 .navigation {
-  padding-top: 15px;
   text-align: center;
-  font-size: 15px;
-}
-
-.navigation-a {
-  padding: 8px;
 }
 
 a {
